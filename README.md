@@ -27,8 +27,8 @@ Here are some examples of locale codes:
 ```
 ja_JP: Japanese
 ko_KR: Korean
-zh_CN: Chinese
-zh_TW: Taiwanese
+zh_CN: Chinese Simplify
+zh_TW: Chinese Traditional
 es_ES: Spanish (Spain)
 es_MX: Spanish (Latin America)
 en_US: English (alternatives en_GB, en_AU)
