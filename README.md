@@ -24,6 +24,7 @@ set "dst_path=G:\Riot Games\League of Legends\LeagueClientShortcut.lnk"
 Change the --locale argument to the language you want to set your League of Legends client to.
 Here are some examples of locale codes:
 
+```
 ja_JP: Japanese
 ko_KR: Korean
 zh_CN: Chinese
@@ -41,16 +42,15 @@ pt_BR: Portuguese
 hu_HU: Hungarian
 ru_RU: Russian
 tr_TR: Turkish
+```
 
 Example:
 
 ```batch
-Copy code
 $s.Arguments = '--locale=zh_CN';
 ```
 
 Save your changes and run the batch file.
 This will create a shortcut, run the game in the specified language, and then delete the shortcut.
 
-#Disclaimer
-Use this script at your own risk. Always make sure you know what a script does before running it on your system.
+
