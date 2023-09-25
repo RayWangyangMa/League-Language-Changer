@@ -1,6 +1,6 @@
 # League of Legends Language Changer Script
 
-This batch script allows you to quickly change the language of your League of Legends client and launch the game.
+This batch script allows you to quickly change the language of your League of Legends client and launch the game, so you don't have to go into the league file and change it manually every time.
 
 ## Prerequisites
 
